@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<header>
+
+<title>Background</title>
+<link rel="stylesheet" href="assets/stylesheets2/main.css">
+</header>
+
+<h4>Background</h4>
+<p>Currenlty, I'm working as a Financial Analyst. I have spent the last eight years working in the finance departments of Overstock.com, The Royal Bank of Scotland and Genesys Telecommunications. In that time I have learned that finance/accounting is boring. It's time for a change! Time to learn something new, get a sweet new job and justify buying this computer!</p>
+
+
+
+</section>
+
+
+<footer>
+  <section>
+    <header class="container">
+      <div class="notice-success">
+  Nailed it!
+</div>
+
+  <small>&copy; Jeff</small>
+</section>
+</footer>
